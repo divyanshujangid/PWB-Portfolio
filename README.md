@@ -73,7 +73,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/JoaoFranco03/photography-portfolio)
 
-This project is a web-based portfolio that beautifully showcases the photography work of Sophia Williams, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
+This project is a web-based portfolio that beautifully showcases the photography work of Photuwalebhaiyaan, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,19 +143,19 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
 ## 📧 Contact <a name="contact"></a>
 
-João Franco - https://www.linkedin.com/in/joão-franco-452161195/
+Divyanshu Jangid
 
-Project Link: [https://github.com/JoaoFranco03/photography-portfolio/](https://github.com/JoaoFranco03/photography-portfolio/)
+<!-- Project Link: [https://github.com/JoaoFranco03/photography-portfolio/](https://github.com/JoaoFranco03/photography-portfolio/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
-## 🌟 Acknowledgments <a name="acknowledgments"></a>
+<!-- ## 🌟 Acknowledgments <a name="acknowledgments"></a>
 
 - [FancyBox](https://fancyapps.com/fancybox/)
 - [Unsplash](https://unsplash.com/)
-- [Tailwind Documentation](https://tailwindcss.com/docs/installation)
+- [Tailwind Documentation](https://tailwindcss.com/docs/installation) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,6 +179,5 @@ Project Link: [https://github.com/JoaoFranco03/photography-portfolio/](https://g
 [js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [license-url]: https://github.com/JoaoFranco03/photography-portfolio/blob/main/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/joão-franco-452161195/
+<!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555 -->
 [product-screenshot]: dist/assets/mockup.png
